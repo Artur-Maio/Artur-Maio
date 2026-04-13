@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Artur-Maio, I'm a software and web developer
-- 👀 I’m interested in software and web development with
-      HTML, CSS, Javascript, ReactJS, JAVA/SpringBoot 
+- 👀 I’m interested in software and web development with AI
 - 💞️ I’m looking to collaborate on any kind of projects 
 - 📫 How to reach me : arturmaior@gmail.com ;
 -  Whatsapp:+55(21)99644-1126;
